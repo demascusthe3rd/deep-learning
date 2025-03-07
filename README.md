@@ -1,6 +1,7 @@
  deep-learning introduction:
  1.deep learning is defines about working on comple neural networks.this topic is subset of the machine learning.
  types of layers in deep learning:
+ 
  1.input layer: 
  recieves the raw data to machine
  
